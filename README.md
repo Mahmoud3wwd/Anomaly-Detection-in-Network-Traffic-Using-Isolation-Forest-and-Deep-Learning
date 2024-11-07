@@ -6,10 +6,6 @@ This project implements an anomaly detection system for synthetic network traffi
 - [Project Overview](#project-overview)
   This repository provides an end-to-end solution for detecting anomalies in network traffic using a hybrid approach. The first step utilizes the Isolation Forest algorithm for unsupervised anomaly detection, followed by a deep learning neural network for binary classification of normal and anomalous data. The system includes data preprocessing, feature engineering, model training, and evaluation, offering a comprehensive pipeline for anomaly detection tasks.
 
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Code Structure](#code-structure)
-
 - [Methodology](#methodology)
   The anomaly detection process follows these steps:
 
